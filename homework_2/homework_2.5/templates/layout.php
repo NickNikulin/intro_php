@@ -5,9 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-<a href="/">Главная</a>
-<a href="/catalog.php">Каталог</a>
-<br>
+<?=$menu?>
 <?=$content?>
 </body>
 </html>
