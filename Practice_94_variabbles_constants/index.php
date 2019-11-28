@@ -21,6 +21,7 @@ define("PAGE", "new page");
 <h1><?php echo $var ?></h1>
 <h1><?php echo PAGE ?></h1>
 <p><?php echo $var?></p>
+<p><?php echo $var?></p>
 
 </body>
 </html>
